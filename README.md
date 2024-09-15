@@ -1,2 +1,5 @@
 # belajar-kolaborasi
-Belajar GitHub di Dicoding sangat menyenangkan!
+commit 1</br>
+commit 2</br>
+commit 3</br>
+commit 4
